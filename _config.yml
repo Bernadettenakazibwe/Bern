@@ -20,7 +20,7 @@ navigation: # Navigation links
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
-hero_img: /assets/img/posts/sleek_md.jpg #Main background image: use the path from /assets/img/ => This will output /assets/img/posts/slee![alt text](https://www.eternalworks.com/hubfs/SaaSFiles/bigstock--D-Rendering-Of-Human-Brain-O-195737152.jpg#keepProtocol)k_lg.jpg
+hero_img: posts/sleek_md.jpg #Main background image: use the path from /assets/img/ => This will output /assets/img/posts/slee![alt text](https://www.eternalworks.com/hubfs/SaaSFiles/bigstock--D-Rendering-Of-Human-Brain-O-195737152.jpg#keepProtocol)k_lg.jpg
 
 email: bernadettenakazibwe@gmail.com  # email for form submission
 
