@@ -1,7 +1,7 @@
 ---
 layout: post
 title: APPLICATION OF DIGITAL TECHNOLOGY IN THE HEALTH SECTOR.
-featured-img: https://www.eternalworks.com/hubfs/SaaSFiles/bigstock--D-Rendering-Of-Human-Brain-O-195737152.jpg#keepProtocol
+featured-img: ![alt text](https://www.eternalworks.com/hubfs/SaaSFiles/bigstock--D-Rendering-Of-Human-Brain-O-195737152.jpg#keepProtocol)
 mathjax: true
 ---
 
