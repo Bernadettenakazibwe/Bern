@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
 title: DIGITAL HEALTH # your site title
 author: Bernadette  # You :P
-description: > # Meta description of Homepage
-  "Different Technological developments in the Health sector."
+description:  "Different Technological developments in the Health sector."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Bernadettenakazibwe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -37,8 +36,7 @@ service_worker: true
 
 # BUILD SETTINGS
 markdown: kramdown
-highlighter: rouge # or pygments or null
-# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+highlighter: rouge # or pygments or nulL
 exclude:
   - README.md
   - node_modules
