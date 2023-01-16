@@ -1,7 +1,7 @@
 {
   "name": "Blog",
   "version": "1.0.0",
-  "description": "Sleek is a modern Jekyll theme focused on speed performance & SEO best practices.",
+  "description": "Medicine and Technology in Today's Digital World.",
   "main": "gulpfile.js",
   "dependencies": {
     "fg-loadcss": "^1.3.1",
@@ -50,7 +50,7 @@
   "author": "Jan Czizikow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/janczizikow/sleek/issues"
+    "url": "https://github.Bernadettenakazibwe/Blog/issues"
   },
-  "homepage": "https://github.com/janczizikow/sleek#readme"
+  "homepage": "https:/Bernadettenakazibwe/Blog#readme"
 }
