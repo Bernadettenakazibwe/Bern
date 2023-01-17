@@ -20,8 +20,17 @@ With smart phones, the patients are able to connect with other patients via soci
 
 ![alt text](https://www.intellectdigest.in/wp-content/uploads/2015/01/wearable-technology-design-work-life-02.jpg)
 
-### **2.Imaging Machinery**.
- These include the Magnetic Resonance Imaging(MRI), Computer Tomography(CT) scans, PET Scans, X- Rays. All of these and some others. They are used to observe the human internal body in oder to give the right medication to the patients and also they have assisted doctors during invasive surgeries. Forexample they can be used when observing tumours, broken bones and other conditions like the cardiovascular, respiratory digestive.
+### **2.Imaging Techniques**.
+These are procedures techniques used in the hospitals to produce images of the inner parts of the human body which images are used to by the physicians to diagnonise,and treat different conditions. The imaging techiques include;
+
+1. Radiography: 
+During this technique, a part of the body is exposed to the beam of x-rays in order to caputer the image. They are often used in the diagnosis of the tumours, fractures, and also to locate foreign objects in the body like the swallowed pins. They include the Chest X-Ray, Bone X-Ray , Abdominal X-ray and the Bone Density Scan.
+
+2. Magnetic Resonance Imaging(MRI Scan):
+An MRI Scan is used by physicians to study about the brain and the spinal cord like the brain tumours. During this techique, the patient is entered into the MRI machine where the magnetic fields are created between the body  hydrogen atoms of the water molecules and the MRI Machine until a clear image is obtained. This method less affects the patients because it does not expose them to any radiations.
+
+3. CT Scan(Computed Tomography):
+This technique provides more detailed image compared to the above mentioned techniques. The CT Scan includes muscles and blood vessels in the images. During the CT Scan, the ptient is entered into the machine and is exposed to rotating X-Rays. The machine captures the X-Rays on the part of the body the doctors want to view, and these are interpreted by thecomputerto come up with the meaningful image which can be even turned into a 3D image. CT Scans are used to view the chest, head, abdomen, heart, spine etc.
  
  Some the other digital devices include the Digital Diagnostic ECG System, Digital Ultrasound Prob Digital Medical Camera, Digital Stetoscope, Dental Camera, Ventilators, Anaesthesia devices.
 
